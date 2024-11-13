@@ -1,6 +1,9 @@
 # XaaS veya Her Şey Servis Olarak (Anything as a Service veya Everything as a Service)
 XaaS terimi, "Her Şey Servis Olarak" anlamına gelen "Anything as a Service" veya "Everything as a Service" ifadelerinin kısaltmasıdır. Bu kavram, kullanıcılarına internet üzerinden çevrimiçi olarak çeşitli hizmetler sunan iş modelleri ve teknolojilere atıfta bulunur. Bu modelde altyapılar, platformlar, yazılımlar ve hatta başka özel unsurlar, bir abonelik temeliyle hizmet olarak sunulmaktadır. XaaS'in arkasındaki temel fikir, şirketler ve bireylerin kendi donanım ve yazılımlarını satın alıp kurmak yerine, hazır hizmetlerden yararlanmaları ve yalnızca kullandıkları kadar ödeme yapmalarıdır.
 
+[img1]: xaas.jpg (Xaas)
+![img1]
+
 # XaaS Türleri (Her Şey Servis Olarak)
 
 ## 1. SaaS (Software as a Service)

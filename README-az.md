@@ -1,6 +1,9 @@
 # XaaS və ya Hər Şey Xidmət Kimi (Anything as a Service və ya Everything as a Service)
 XaaS termini **Hər Şey Xidmət Kimi (Anything as a Service)** və ya **Her Şey Xidmət Kimi (Everything as a Service)** mənasını verir. Bu anlayış, xidmətlərin internet üzərindən onlayn olaraq təqdim edildiyi müxtəlif biznes modellərinə və texnologiyalara aiddir. Bu modeldə infrastruktur, platformalar, proqram təminatı və hətta xüsusi elementlər abunəlik əsasında xidmət olaraq təqdim olunur. XaaS-in əsas ideyası odur ki, şirkətlər və fərdlər öz avadanlıqlarını və proqram təminatını alıb qurmaq yerinə hazır ...
 
+[img1]: xaas.jpg (Xaas)
+![img1]
+
 # XaaS Növləri (Her Şey Xidmət Kimi)
 
 ## 1. SaaS (Proqram Təminatı Kimi Xidmət)

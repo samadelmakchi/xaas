@@ -1,6 +1,9 @@
 # XaaS or Anything as a Service (or Everything as a Service)
 The term XaaS stands for **Anything as a Service** or **Everything as a Service**. This concept refers to various business models and technologies that deliver services online over the internet. In this model, infrastructure, platforms, software, and even specific elements are accessible as services on a subscription basis. The main idea behind XaaS is that companies and individuals can leverage pre-built services instead of purchasing and installing their own hardware and software, paying only for what they use.
 
+[img1]: xaas.jpg (Xaas)
+![img1]
+
 # Types of XaaS (Everything as a Service)
 
 ## 1. SaaS (Software as a Service)
